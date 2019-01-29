@@ -1,0 +1,3 @@
+The command to cut an entire line is: 
+C-k for cutting line forward.
+M-o C-k for cutting line backwards.
